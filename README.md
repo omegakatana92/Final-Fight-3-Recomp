@@ -24,7 +24,7 @@ until the host work in `src/game_rtl.c` is done. See
 |---|---|
 | File | `Final Fight 3 (USA).sfc` |
 | Publisher | capcom |
-| Developer | — |
+| Developer | Capcom|
 | Year | 1995 |
 | Mapping | hirom |
 | Region | USA (North America) |
