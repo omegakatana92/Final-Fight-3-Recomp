@@ -13,10 +13,12 @@ Native Windows recompilation project for Final Fight 3
 
 ## Status
 
-Scaffolded on 2026-10-17 — **not yet a working port.** The layout, build,
-regeneration pipeline, CI, and packaging are wired up; the game does not run
-until the host work in `src/game_rtl.c` is done. See
-[Porting from here](#porting-from-here).
+Windows native recompilation tested locally on 2026-10-17.
+
+The game launches successfully with a user-supplied ROM.
+Graphics, audio, controls, gameplay, and exiting have been tested.
+
+The public repository excludes the ROM and generated ROM-derived source code.
 
 ## ROM identity
 
