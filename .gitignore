@@ -25,3 +25,7 @@
 /input.ini
 
 .DS_Store
+/working-build-backup/
+/release-preflight.txt
+/msvc-clean-build.log
+/windows-build-diagnostic.log
