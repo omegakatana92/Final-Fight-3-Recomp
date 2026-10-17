@@ -26,7 +26,7 @@ The public repository excludes the ROM and generated ROM-derived source code.
 |---|---|
 | File | `Final Fight 3 (USA).sfc` |
 | Publisher | capcom |
-| Developer | — |
+| Developer | Capcom|
 | Year | 1995 |
 | Mapping | hirom |
 | Region | USA (North America) |
